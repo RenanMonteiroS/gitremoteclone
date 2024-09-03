@@ -1,0 +1,1 @@
+exports.env = [{name: 'construcao', path: '/home/rmonteirox/Documents/teste'}, {name: 'homologacao', path: '/var/www/www_homologacaoweb'}, {name: 'distribuicao', path: '/var/www/www_distribuicao'}];
